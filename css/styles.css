@@ -60,12 +60,6 @@ span {
     text-decoration: underline;
 }
 
-.exp{
-    border: dotted grey 6px;
-    border-bottom: none;
-    width: 4%;
-    margin: 100px auto;
-}
 
 .top-container {
     background-color: #eaf6f6;
