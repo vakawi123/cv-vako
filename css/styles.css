@@ -97,6 +97,10 @@ span {
     height: 220px;
 }
 
+.intro {
+    margin: 100px auto 100px auto;
+}
+
 .games {
     width: 220px;
     height: 220px;
